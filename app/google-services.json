@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "310199258839",
+    "firebase_url": "https://petlost-c4673.firebaseio.com",
+    "project_id": "petlost-c4673",
+    "storage_bucket": "petlost-c4673.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310199258839:android:ace180f513a13a80",
+        "android_client_info": {
+          "package_name": "com.dnp.app.petlost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310199258839-9kekdssfafn2on9u3d65c2lgfpumc4hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dnp.app.petlost",
+            "certificate_hash": "c6e24cf40c5b7af29710aee2ee83a4c1adc36357"
+          }
+        },
+        {
+          "client_id": "310199258839-3jk0qvjod3qckpgt0e9qlg03o4vgripj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "310199258839-3jk0qvjod3qckpgt0e9qlg03o4vgripj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Sju7-Mh6_UQpZkXPhXCg5wq_9H-s1gk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310199258839-3jk0qvjod3qckpgt0e9qlg03o4vgripj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PetLost</string>
+    <string name="not_log_in">No se encuentra el valor</string>
+    <string name="log_out">SALIR</string>
+    <string name="revoke">REVOCAR</string>
+    <string name="not_close_session">No cerrar sesion</string>
+    <string name="not_revoke">No revocar sesion</string>
+
+    <string name="item_menu_agregar">Agregar mascota</string>
+    <string name="item_menu_eliminar">Eliminar mascota</string>
+    <string name="item_menu_salir">Salir</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

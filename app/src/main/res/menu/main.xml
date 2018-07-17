@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context=".MainActivity2">
+
+    <item android:id="@+id/action_agregar"
+        android:title="@string/item_menu_agregar"
+        android:icon="@drawable/lista_mascotas"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/action_eliminar"
+        android:title="@string/item_menu_eliminar"
+        android:icon="@drawable/del_dog_50px"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_salir"
+        android:title="@string/item_menu_salir"
+        android:icon="@drawable/del_dog_50px"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>
